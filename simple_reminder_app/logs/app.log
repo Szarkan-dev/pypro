@@ -1,0 +1,65 @@
+[2026-11-18 14:59:38] [INFO] [SimpleReminder] Starting Simple Reminder List Application...
+[2026-11-18 14:59:38] [INFO] [SimpleReminder] Initialized ReminderDAO with backing file: data\reminders.json (JSON)
+[2026-11-18 14:59:50] [INFO] [SimpleReminder] Initialized ReminderDAO with backing file: C:\Users\Hanu\AppData\Local\Temp\tmpbk80wz3k\test_reminders.json (JSON)
+[2026-11-18 14:59:50] [ERROR] [SimpleReminder] Error streaming JSON file C:\Users\Hanu\AppData\Local\Temp\tmpbk80wz3k\test_reminders.json: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)
+[2026-11-18 14:59:50] [ERROR] [SimpleReminder] Storage integrity check failed for C:\Users\Hanu\AppData\Local\Temp\tmpbk80wz3k\test_reminders.json: Failed to stream JSON storage file: Expecting property name enclosed in double quotes: line 1 column 3 (char 2). Triggering recovery.
+[2026-11-18 14:59:50] [WARNING] [SimpleReminder] Corrupted storage backed up to: C:\Users\Hanu\AppData\Local\Temp\tmpbk80wz3k\test_reminders_corrupt_20261118_145950.json
+[2026-11-18 14:59:50] [INFO] [SimpleReminder] Initialized clean JSON storage at C:\Users\Hanu\AppData\Local\Temp\tmpbk80wz3k\test_reminders.json
+[2026-11-18 14:59:50] [INFO] [SimpleReminder] Initialized ReminderDAO with backing file: C:\Users\Hanu\AppData\Local\Temp\tmpxpvzm7f8\test_reminders.csv (CSV)
+[2026-11-18 14:59:50] [INFO] [SimpleReminder] Storage file C:\Users\Hanu\AppData\Local\Temp\tmpxpvzm7f8\test_reminders.csv does not exist. Initializing empty storage.
+[2026-11-18 14:59:50] [INFO] [SimpleReminder] Initialized clean CSV storage at C:\Users\Hanu\AppData\Local\Temp\tmpxpvzm7f8\test_reminders.csv
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 1 records to CSV C:\Users\Hanu\AppData\Local\Temp\tmpxpvzm7f8\test_reminders.csv
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Added reminder #1: 'CSV Test Item'
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Initialized ReminderDAO with backing file: C:\Users\Hanu\AppData\Local\Temp\tmpyqz5ppuc\test_reminders.json (JSON)
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Storage file C:\Users\Hanu\AppData\Local\Temp\tmpyqz5ppuc\test_reminders.json does not exist. Initializing empty storage.
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Initialized clean JSON storage at C:\Users\Hanu\AppData\Local\Temp\tmpyqz5ppuc\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 1 records to C:\Users\Hanu\AppData\Local\Temp\tmpyqz5ppuc\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Added reminder #1: 'Stream Item #1'
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 2 records to C:\Users\Hanu\AppData\Local\Temp\tmpyqz5ppuc\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Added reminder #2: 'Stream Item #2'
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 3 records to C:\Users\Hanu\AppData\Local\Temp\tmpyqz5ppuc\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Added reminder #3: 'Stream Item #3'
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 4 records to C:\Users\Hanu\AppData\Local\Temp\tmpyqz5ppuc\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Added reminder #4: 'Stream Item #4'
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 5 records to C:\Users\Hanu\AppData\Local\Temp\tmpyqz5ppuc\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Added reminder #5: 'Stream Item #5'
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Initialized ReminderDAO with backing file: C:\Users\Hanu\AppData\Local\Temp\tmpvbjcn9zj\test_reminders.json (JSON)
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Storage file C:\Users\Hanu\AppData\Local\Temp\tmpvbjcn9zj\test_reminders.json does not exist. Initializing empty storage.
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Initialized clean JSON storage at C:\Users\Hanu\AppData\Local\Temp\tmpvbjcn9zj\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 1 records to C:\Users\Hanu\AppData\Local\Temp\tmpvbjcn9zj\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Added reminder #1: 'DAO Test Item'
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 1 records to C:\Users\Hanu\AppData\Local\Temp\tmpvbjcn9zj\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Updated reminder #1
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 0 records to C:\Users\Hanu\AppData\Local\Temp\tmpvbjcn9zj\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Deleted reminder #1
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Initialized ReminderDAO with backing file: C:\Users\Hanu\AppData\Local\Temp\tmpq8uingxz\test_reminders.json (JSON)
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Storage file C:\Users\Hanu\AppData\Local\Temp\tmpq8uingxz\test_reminders.json does not exist. Initializing empty storage.
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Initialized clean JSON storage at C:\Users\Hanu\AppData\Local\Temp\tmpq8uingxz\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 1 records to C:\Users\Hanu\AppData\Local\Temp\tmpq8uingxz\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Added reminder #1: 'Task #1'
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 2 records to C:\Users\Hanu\AppData\Local\Temp\tmpq8uingxz\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Added reminder #2: 'Task #2'
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 3 records to C:\Users\Hanu\AppData\Local\Temp\tmpq8uingxz\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Added reminder #3: 'Task #3'
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 4 records to C:\Users\Hanu\AppData\Local\Temp\tmpq8uingxz\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Added reminder #4: 'Task #4'
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 5 records to C:\Users\Hanu\AppData\Local\Temp\tmpq8uingxz\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Added reminder #5: 'Task #5'
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 6 records to C:\Users\Hanu\AppData\Local\Temp\tmpq8uingxz\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Added reminder #6: 'Task #6'
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 7 records to C:\Users\Hanu\AppData\Local\Temp\tmpq8uingxz\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Added reminder #7: 'Task #7'
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 8 records to C:\Users\Hanu\AppData\Local\Temp\tmpq8uingxz\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Added reminder #8: 'Task #8'
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 9 records to C:\Users\Hanu\AppData\Local\Temp\tmpq8uingxz\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Added reminder #9: 'Task #9'
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 10 records to C:\Users\Hanu\AppData\Local\Temp\tmpq8uingxz\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Added reminder #10: 'Task #10'
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 11 records to C:\Users\Hanu\AppData\Local\Temp\tmpq8uingxz\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Added reminder #11: 'Task #11'
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 12 records to C:\Users\Hanu\AppData\Local\Temp\tmpq8uingxz\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Added reminder #12: 'Task #12'
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 13 records to C:\Users\Hanu\AppData\Local\Temp\tmpq8uingxz\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Added reminder #13: 'Task #13'
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Successfully saved 14 records to C:\Users\Hanu\AppData\Local\Temp\tmpq8uingxz\test_reminders.json
+[2026-11-18 14:59:51] [INFO] [SimpleReminder] Added reminder #14: 'Task #14'

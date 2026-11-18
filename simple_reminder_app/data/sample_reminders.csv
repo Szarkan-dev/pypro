@@ -1,0 +1,37 @@
+id,title,category,due_date,priority,description,status,created_at,completed_at
+1,Submit Q3 Financial Expense Audit,Finance,2026-11-08 17:00,Critical,Gather all receipts and submit to corporate portal.,Pending,2026-11-18 09:25:36,
+2,Renew Vehicle Insurance Policy,Personal,2026-11-13 17:00,High,Compare quotes from Geico and State Farm.,Pending,2026-11-18 09:25:36,
+3,Return Library Reference Books,Academic,2026-11-16 17:00,Medium,Algorithms and Data Structures 4th Edition.,Pending,2026-11-18 09:25:36,
+4,Pay Monthly Electricity Utility Bill,Finance,2026-11-17 17:00,High,Pay via online portal to avoid late payment fee.,Pending,2026-11-18 09:25:36,
+5,FutureReady Hackathon Prototype Submission,Academic,2026-11-19 23:59,Critical,Final commit and video walkthrough recording.,Pending,2026-11-18 09:25:36,
+6,Weekly Engineering Team Standup,Work,2026-11-20 09:30,Medium,Present sprint retrospective slides.,Pending,2026-11-18 09:25:36,
+7,Annual Dental Hygiene Checkup,Health,2026-11-21 14:00,Low,Dr. Smith's clinic at Downtown Medical Center.,Pending,2026-11-18 09:25:36,
+8,Draft Architecture Proposal v2,Work,2026-11-22 18:00,High,Incorporate feedback from Attempt 2 evaluation report.,Pending,2026-11-18 09:25:36,
+9,Grocery Shopping: Weekly Meal Prep,Personal,2026-11-23 11:00,Low,"Buy fresh produce, chicken breast, and oats.",Pending,2026-11-18 09:25:36,
+10,Review CS50 Python Data Persistence Assignment,Academic,2026-11-24 20:00,High,Grade peer review submissions on Canvas.,Pending,2026-11-18 09:25:36,
+11,Quarterly Server Security Patching,Work,2026-11-25 02:00,Critical,Apply Kernel security patches to production nodes.,Pending,2026-11-18 09:25:36,
+12,Prepare Annual Tax Return Filing,Finance,2026-12-02 17:00,High,Organize W2 and 1099 tax forms.,Pending,2026-11-18 09:25:36,
+13,Renew AWS Solutions Architect Certification,Work,2026-12-08 17:00,Medium,Complete practice exam questions on Pearson VUE.,Pending,2026-11-18 09:25:36,
+14,Plan Family Summer Vacation Itinerary,Personal,2026-12-13 17:00,Low,Book hotel rooms and flight tickets.,Pending,2026-11-18 09:25:36,
+15,Submit Research Paper on ML Optimization,Academic,2026-12-18 17:00,High,Camera-ready submission for IEEE Conference.,Pending,2026-11-18 09:25:36,
+16,Schedule Annual Comprehensive Health Screening,Health,2026-12-23 17:00,Medium,Blood test and cardiology consultation.,Pending,2026-11-18 09:25:36,
+17,Automobile Scheduled Maintenance & Oil Change,Personal,2026-12-28 17:00,Medium,"50,000 mile comprehensive service.",Pending,2026-11-18 09:25:36,
+18,Renew Home Broadband Internet Subscription,Finance,2027-01-02 17:00,Low,Negotiate promotional rate with ISP.,Pending,2026-11-18 09:25:36,
+19,Setup Python Virtual Environment & Git Repo,Work,2026-11-03 17:00,High,Initial setup for reminder project.,Completed,2026-11-18 09:25:36,2026-11-03 17:00
+20,Read ShelfTalk Attempt 1 Evaluation Feedback,Academic,2026-11-06 17:00,Critical,Analyzed points lost due to missing unit tests.,Completed,2026-11-18 09:25:36,2026-11-06 17:00
+21,Analyze ShelfTalk Attempt 2 Grade A Rubric,Academic,2026-11-10 17:00,High,Identified DAO pattern and security validation strengths.,Completed,2026-11-18 09:25:36,2026-11-10 17:00
+22,Configure Project Directory Layout & Pytest,Work,2026-11-14 17:00,Medium,Established standard layout matching requirements.,Completed,2026-11-18 09:25:36,2026-11-14 17:00
+23,Purchase Hackathon Snacks & Energy Drinks,Personal,2026-11-15 17:00,Low,Stock up for coding marathon.,Completed,2026-11-18 09:25:36,2026-11-15 17:00
+24,Boundary: Leap Year Deadline Check,Academic,2028-02-29 23:59,Low,Testing date handling on leap year boundaries.,Pending,2026-11-18 09:25:36,
+25,Boundary: End of Century Boundary Test,Other,2099-12-31 23:59,Low,Maximum allowable year validation boundary test.,Pending,2026-11-18 09:25:36,
+26,Edge Case: Short Title X,Other,2026-11-30 17:00,Medium,Testing minimum string length handling.,Pending,2026-11-18 09:25:36,
+27,Edge Case: Special Characters & Emojis 🚀🎉!,Personal,2026-12-03 17:00,High,Testing UTF-8 encoding in JSON/CSV persistence layer.,Pending,2026-11-18 09:25:36,
+28,Edge Case: Extremely Long Description Text Boundary,Work,2026-12-06 17:00,Low,This is a very detailed description designed to test string truncation and wrap logic in CLI table formatting modules under high line length conditions.,Pending,2026-11-18 09:25:36,
+29,Edge Case: Minimum Priority Low Item,Other,2026-12-10 17:00,Low,Verifying heuristic urgency score calculations for lowest priority.,Pending,2026-11-18 09:25:36,
+30,Edge Case: High Frequency Alarm Notification,Health,2026-11-19 08:00,Critical,Testing early morning alarm calculation.,Pending,2026-11-18 09:25:36,
+31,Refactor Codebase to Modular DAO Structure,Work,2026-11-20 17:00,Critical,Separating database logic from CLI user interface.,Pending,2026-11-18 09:25:36,
+32,Write Comprehensive Automated Unit Tests,Academic,2026-11-20 21:00,Critical,Ensuring 100% test pass rate for evaluation attempt 1.,Pending,2026-11-18 09:25:36,
+33,Generate Markdown Executive Audit Summary,Finance,2026-11-21 12:00,High,Verifying multi-format report exporter.,Pending,2026-11-18 09:25:36,
+34,Backup Storage Schema Verification,Work,2026-11-22 15:00,Medium,Test atomic file writing and backup fallback.,Pending,2026-11-18 09:25:36,
+35,Final Code Inspection & Clean Packaging,Academic,2026-11-23 18:00,Critical,Verify unminified code structure and zero external dependencies.,Pending,2026-11-18 09:25:36,
+36,Hackathon Demo Walkthrough Practice,Personal,2026-11-24 19:00,High,"Simulate error recovery, filtering, and restart persistence.",Pending,2026-11-18 09:25:36,
